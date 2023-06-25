@@ -1,8 +1,6 @@
 /**
 
-In this task you will implement the method setOdd of the class Lab2 which will set all intensity values with odd coordinates to white (255), all others will be set to black (0). An odd coordinate is defined as a coordinate that has and odd x value or an odd y value.
-
-The expected output is provided in the file solution.png.
+This task will set all intensity values with odd coordinates to white (255), all others will be set to black (0). An odd coordinate is defined as a coordinate that has and odd x value or an odd y value.
 
 **/
 
