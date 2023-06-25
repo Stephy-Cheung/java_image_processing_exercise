@@ -1,23 +1,10 @@
 /**
 
-In this task you will implement the method getColourValue of the class Lab3. 
-
-To check the actual intensity value of a pixel at x=111 y=20 you may use the following command in the terminal. 
-
-convert 'example.png[1x1+20+111]' txt:
+In this task you will implement the method getColourValue to check the actual intensity value of a pixel of a color image
 
 Note that the colour image is stored is of type TYPE_3BYTE_BGR which stores the blue component first, then the green component and finally the red component. As before, all pixels are stored in a row major 1D array. 
 
-Here a few test cases:
 
-Input coordinates: 1 1
-Colour value (rgb) at (1,1) is 224 17 95
-
-Input coordinates: 100 20
-Colour value (rgb) at (100,20) is 234 18 99
-
-Input coordinates: 100 100
-Colour value (rgb) at (100,100) is 0 0 0
 
 **/
 
