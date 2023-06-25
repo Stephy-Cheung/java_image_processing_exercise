@@ -1,10 +1,7 @@
 /**
 
-In this you task will implement the method getMostFrequentIntensityValue that will return the most frequent intensity value in the image, i.e., the intensity that appears most often. 
+This task is to getMostFrequentIntensityValue that will return the most frequent intensity value in the image, i.e., the intensity that appears most often. 
 
-Your program should output the following.
-
-Most frequent intensity value is 194
 
 **/
 
