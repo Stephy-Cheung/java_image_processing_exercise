@@ -1,6 +1,6 @@
 /**
 
-In this task you will implement the method histogramEqualization of the class Lab2 which will perform histogram equalization.  
+This task implements the histogram equalization by first creating the mapping table by the distribution of intensity.
 
 The expected output is provided in the files solution1.png and solution2.png.
 
