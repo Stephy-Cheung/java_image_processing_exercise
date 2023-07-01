@@ -1,12 +1,8 @@
 /**
 
-In this task you will implement the method boxFilter of the class Lab3 which applies the box smooth filter on the image i. 
+This task you will implement the boxFilter which applies the box smooth filter on the image i. 
 
-You may handle the boundary case in any way that you see fit. E.g., by keeping the pixels unchanged. 
-
-The expected output is provided in the files solution3.png and solution7.png. 
-
-The solution files are provided for qualitative comparison. Output could be slightly different because of differences in floating point arithmetic. 
+Boundary case pixel will be unchanged. 
 
 **/
 
