@@ -1,10 +1,8 @@
 /**
 
-In this task you will implement the method medianFilter of the class Lab4 which applies the median filter on the image. 
+This task you will implement the medianFilter on the image. 
 
-You should handle the boundary case by keeping the pixels unchanged. 
-
-The expected output is provided in the files solution3.png and solution7.png.
+Boundary case pixel will be kept the pixels unchanged. 
 
 **/
 
